@@ -1,0 +1,28 @@
+.container {
+  margin-left: 12.5%;
+  margin-top: 17.5%;
+  width: 80%;
+  position: absolute;
+}
+
+img {
+  height: 350px;
+  width: 350px;
+  display: block;
+  float: center;
+  position: static;
+  border: solid white 10px;
+}
+
+.dimg {
+  height: 33.3%;
+  width: 33.3%;
+  display: block;
+  float: left;
+}
+
+img:hover {
+  border-radius: 5px;
+  border-style: groove;
+  border-color: #f442dc;
+}
